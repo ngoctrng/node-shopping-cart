@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Clojure for the Brave and True",
+    "price": 20,
+    "description": "Learn the Ultimate Language and Become a Better Programmer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbupw23X4f-1NO48hzHUEN2tgK_TdhJojbYfq0H_L9pYkfm5xN0FyZUQnH&s=5"
+  },
+  {
+    "name": "The Joy of Clojure, Second Edition",
+    "price": 23,
+    "description": "The Joy of Clojure, Second Edition is a deep look at the Clojure language. Fully updated for Clojure 1.6, this new edition goes beyond just syntax to show you the \"why\" of Clojure and how to write fluent Clojure code.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41AM17hmITL._SX397_BO1,204,203,200_.jpg"
+  },
+  {
+    "name": "The Go Programming Language",
+    "price": 39,
+    "description": "The Go Programming Language is the authoritative resource for any programmer who wants to learn Go. It shows how to write clear and idiomatic Go to solve real-world problems.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51SGWqb3oBL._SX402_BO1,204,203,200_.jpg"
+  },
+  {
+    "name": "Go in Action",
+    "price": 39,
+    "description": "Go in Action introduces the Go language, guiding you from inquisitive developer to Go guru. The book begins by introducing the unique features and concepts of Go.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41ADgj-CvsL._SX397_BO1,204,203,200_.jpg"
+  },
+  {
+    "name": "Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale",
+    "price": 29,
+    "description": "Some companies think that adopting devops means bringing in specialists or a host of new tools. With this practical guide, you’ll learn why devops is a professional and cultural movement that calls for change from inside your organization.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51ZlV+YdG7L._SX258_BO1,204,203,200_.jpg"
+  },
+  {
+    "name": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+    "price": 28,
+    "description": "By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system. Now, building upon the success of his best-selling books Clean Code and The Clean Coder, legendary software craftsman Robert C. Martin (“Uncle Bob”) reveals those rules and helps you apply them.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41-sN-mzwKL._SX381_BO1,204,203,200_.jpg"
+  },
+  {
+    "name": "Building Microservices: Designing Fine-Grained Systems",
+    "price": 29,
+    "description": "Distributed systems have become more fine-grained in the past 10 years, shifting from code-heavy monolithic applications to smaller, self-contained microservices. But developing these systems brings its own set of headaches. With lots of examples and practical advice, this book takes a holistic view of the topics that system architects and administrators must consider when building, managing, and evolving microservice architectures.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/519Q46LvdCL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "name": "Kubernetes: Up and Running: Dive into the Future of Infrastructure",
+    "price": 27,
+    "description": "Legend has it that Google deploys over two billion application containers a week. How’s that possible? Google revealed the secret through a project called Kubernetes, an open source cluster orchestrator (based on its internal Borg system) that radically simplifies the task of building, deploying, and maintaining scalable distributed systems in the cloud. This practical guide shows you how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51kIq-umi6L._SX379_BO1,204,203,200_.jpg"
+  }
+]
